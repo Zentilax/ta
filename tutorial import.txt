@@ -1,0 +1,127 @@
+STEP 1 : UPLOAD FILE
+	- Buka Projectnya di Neo4j Desktop
+	- Buat GraphDB baru
+	- disamping graph ada tulisan OPEN, disebelahnya ada 3 titik
+	- Klik Open Folder > import
+	- copy 5 File CSV ke lokasi tersebut
+	- Jalankan GraphDB
+	
+STEP 2 : LOAD &  CONSTRUCT DB
+	- Setelah Graph sudah Start, Buka Neo4j Desktop
+	- Input Query-Query dibawah ini
+	
+		== IMPORT DOC NODES ==
+		LOAD CSV WITH HEADERS FROM 'file:///doc.csv' AS row
+		CREATE (:DOC {
+  		judul: row.judul,
+  		judul_id: row.judul_id,
+  		Label: row.Label
+		});
+		
+		== IMPORT BAB NODES ==
+		LOAD CSV WITH HEADERS FROM 'file:///bab.csv' AS row
+		CREATE (:BAB {
+  		BAB: row.BAB,
+  		BAB_id: row.BAB_id,
+  		Label: row.Label
+		});
+		
+		== IMPORT PASAL NODES ==
+		LOAD CSV WITH HEADERS FROM 'file:///pasal.csv' AS row
+		CREATE (:PASAL {
+ 		Pasal: row.Pasal,
+  		Pasal_id: row.Pasal_id,
+  		Content: row.Content,
+  		Label: row.Label
+		});
+		
+		== IMPORT BAB_PASAL RELATIONSHIP ==
+		LOAD CSV WITH HEADERS FROM 'file:///bab_pasal.csv' AS row
+		MATCH (b:BAB {BAB_id: row.Start_id})
+		MATCH (p:PASAL {Pasal_id: row.End_id})
+		MERGE (b)-[:HAS_PASAL]->(p);
+
+		
+		== IMPORT DOC_BAB RELATIONSHIP ==
+		LOAD CSV WITH HEADERS FROM 'file:///doc_bab.csv' AS row
+		MATCH (d:DOC {judul_id: row.Start_id})
+		MATCH (b:BAB {BAB_id: row.End_id})
+		MERGE (d)-[:HAS_BAB]->(b);
+
+		== IMPORT DOC_BAB RELATIONSHIP ==
+		LOAD CSV WITH HEADERS FROM 'file:///doc_pasal.csv' AS row
+		MATCH (d:DOC {judul_id: row.Start_id})
+		MATCH (p:PASAL {Pasal_id: row.End_id})
+		MERGE (d)-[:HAS_PASAL]->(p);
+
+		== IMPORT PREV (PASAL-PASAL) RELATIONSHIP ==
+		LOAD CSV WITH HEADERS FROM 'file:///prev_fixed.csv' AS row
+		MATCH (a:PASAL {Pasal_id: row.Start_id})
+		MATCH (b:PASAL {Pasal_id: row.End_id})
+		MERGE (a)-[:PREV]->(b);
+
+		
+		
+		
+		== SIMPLE CHECK ==
+		
+		== DOCUMENT RELATION CHECK ==
+		## SEE DOC NAMES, AND ID ##
+		MATCH (d:DOC)
+		RETURN d.judul, d.judul_id
+		LIMIT 10;
+		
+		## VISUALIZE (CHANGE ID) ##
+		MATCH (d:DOC {judul_id: 'DOC001'})
+		OPTIONAL MATCH (d)-[r1]->(x)
+		OPTIONAL MATCH (x)-[r2]->(y)
+		RETURN d, r1, x, r2, y;
+
+		MATCH (d:DOC)
+		WHERE d.judul_id IN ['2026223', '2161319']
+		OPTIONAL MATCH (d)-[r1]->(x)
+		OPTIONAL MATCH (x)-[r2]->(y)
+		RETURN d, r1, x, r2, y;
+
+
+
+		== PASAL RELATION CHECK ==
+		## SEE AVAILABLE PASAL ##
+		MATCH (p:PASAL)
+		RETURN p.Pasal, p.Pasal_id
+		LIMIT 10;
+	
+		## VISUALIZE ##
+		MATCH (p:PASAL {Pasal_id: '200122202007'})
+		// Find its BAB and DOC hierarchy
+		OPTIONAL MATCH (b:BAB)-[r1:HAS_PASAL]->(p)
+		OPTIONAL MATCH (d:DOC)-[r2:HAS_BAB]->(b)
+		// Find the previous Pasal, but invert arrow direction for display
+		OPTIONAL MATCH (p)-[r3:PREV]->(prev:PASAL)
+		RETURN p, b, d, prev, r1, r2, r3;
+
+
+
+
+
+
+
+
+		== for code ==
+		MATCH (currentPasal:PASAL {Pasal_id: '200122201001'})
+		// Find the BAB that contains this PASAL
+		OPTIONAL MATCH (parentBab:BAB)-[rel_bab_pasal:HAS_PASAL]->(currentPasal)
+		// Find the DOC that contains that BAB
+		OPTIONAL MATCH (parentDoc:DOC)-[rel_doc_bab:HAS_BAB]->(parentBab)
+		// Find the PREVIOUS PASAL (arrow: current → previous)
+		OPTIONAL MATCH (currentPasal)-[rel_prev:PREV]->(previousPasal:PASAL)
+		RETURN 
+  			currentPasal.Pasal AS Current_Pasal_Name,
+  			currentPasal.Content AS Current_Pasal_Content,
+ 			previousPasal.Content AS Previous_Pasal_Content,
+  			previousPasal.Pasal AS Previous_Pasal_Name,
+  			parentBab.BAB AS Parent_BAB_Name,
+  			parentDoc.judul AS Parent_Doc_Title,
+  			type(rel_prev) AS Prev_Relationship,
+  			type(rel_bab_pasal) AS BAB_Pasal_Relationship,
+  			type(rel_doc_bab) AS Doc_Bab_Relationship;

@@ -1,0 +1,305 @@
+MEMUTUSKAN:
+
+1.Mencabut :
+Veiligheidsreglement Tahun 1910 (Stbl. No. 406),
+2.Menetapkan :
+UNDANG -UNDANG TENTANG KESELAMATAN KERJA.
+BAB I.
+TENTANG ISTILAH -ISTILAH
+PASAL 1
+Dalam Undang -undang ini yang dimaksudkan dengan :
+(1) "tempat kerja" ialah tiap ruangan atau lapangan, tertutup atau
+terbuka, bergerak atau tetap, dimana tenaga kerja bekerja, atau yang
+sering dimasuki tenaga kerja untuk k eperluan suatu usaha dan di
+mana terdapat sumber atau sumber -sumber bahaya sebagaimana
+diperinci dalam pasal 2;
+termasuk tempat kerja ialah semua ruangan, lapangan, halaman dan
+sekelilingnya yang merupakan bagian -bagian atau yang
+berhubungan dengan tempat kerja tersebut;
+(2) "pengurus" ialah orang yang mempunyai tugas memimpin langsung
+sesuatu tempat kerja atau bagiannya yang berdiri sendiri;
+(3) "pengusaha" ialah :
+a.orang atau badan hukum yang menjalankan sesuatu usaha milik
+sendiri dan untuk keperluan itu mempergunakan tempat kerja;
+b.orang atau badan hukum yang secara berdiri sendiri menjalankan
+sesuatu usaha bukan miliknya dan untuk keperluan itu
+mempergunakan tempat kerja;
+c.orang atau badan hukum, yang di Indonesia mewakili orang
+atau badan hukum termaksud pada (a) dan (b), jikalau yang
+diwakili berkedudukan di luar Indonesia.
+(4) "direktur" ialah pejabat yang ditunjuk oleh Menteri Tenaga Kerja
+untuk melaksanakan Undang -unda ng ini;
+
+(5) "pegawai pengawas" ialah pegawai teknis berkeahlian khusus dari
+Departemen Tenaga Kerja;
+(6) "ahli keselamatan kerja" ialah tenaga teknis berkeahlian khusus dari
+luar Departemen Tenaga Kerja yang ditunjuk oleh Menteri Tenaga
+Kerja untuk mengawasi ditaatinya Undang -undang ini.
+BAB II.
+RUANG LINGKUP
+PASAL 2
+(1) Yang diatur oleh Undang -undang ini ialah keselamatan kerja dalam
+segala tempat kerja, baik di darat, di dalam tanah, di permukaan air,
+di dalam air maupun di udara, yan g berada di dalam wilayah
+kekuasaan hukum Republik Indonesia.
+(2) Ketentuan -ketentuan dalam ayat (1) tersebut berlaku dalam tempat
+kerja di mana :
+a.dibuat, dicoba, dipakai atau dipergunakan mesin, pesawat, alat,
+perkakas, peralatan atau instalasi yang be rbahaya atau dapat
+menimbulkan kecelakaan, kebakaran atau peledakan;
+b.dibuat, diolah, dipakai, dipergunakan, diperdagangkan, diangkut
+atau disimpan bahan atau barang yang : dapat meledak, mudah
+terbakar, menggigit, beracun, menimbulkan infeksi, bersuhu
+tinggi;
+c.dikerjakan pembangunan, perbaikan, perawatan, pembersihan
+atau pembongkaran rumah, gedung atau bangunan lainnya,
+termasuk bangunan pengairan, saluran atau terowongan di
+bawah tanah dan sebagainya atau dimana dilakukan pekerjaan
+persiapan;
+d.dilakukan usaha : pertanian, perkebunan, pembukaan hutan,
+pengerjaan hutan, pengolahan kayu atau hasil hutan lainnya,
+peternakan, perikanan dan lapangan kesehatan;
+
+e.dilakukan usaha pertambangan dan pengolahan : emas, perak,
+logam atau bijih logam lainnya, batu -batuan, gas, minyak atau
+mineral lainnya, baik di permukaan atau di dalam bumi, maupun
+di dasar perairan; dilakukan pengangkutan barang, binatang atau
+manusia, baik di daratan, melalui terowongan, di permukaan air,
+dalam air maupun di udara;
+g.dikerjakan bongkar -muat barang muatan di kapal, perahu,
+dermaga, dok, stasiun atau gudang;
+h.dilakukan penyelaman, pengambilan benda dan pekerjaan lain di
+dalam air;
+i.dilakukan pekerjaan dalam ketinggian di atas permukaan tanah
+atau perairan;
+j.dilakukan pekerjaan di bawah tekanan udara atau suhu yang
+tinggi atau rendah;
+k.dilakukan pekerjaan yang mengandung bahaya tertimbun tanah,
+kejatuhan, terkena pelantingan benda, terjatuh atau terperosok,
+hanyut atau terpelanting;
+l.dilakukan pekerjaan dalam tangki, sumur atau lobang;
+m.terdapat atau menyebar suhu, kelembaban, debu, kotoran, api,
+asap, uap, gas, hembusan angin, cuaca, sinar atau radiasi, suara
+atau getaran;
+n.dilakukan pembuangan atau pemusnahan sampah atau limbah;
+o.dilakukan pemancaran, penyiaran atau penerimaan radio, radar,
+televisi atau telepon;
+p.dilakukan pendidikan, pembinaan, percobaan, penyelidikan atau
+riset (penelitian) yang menggunakan alat teknis ;
+q.dibangkitkan, dirubah, dikumpulkan, disimpan, dibagi -bagikan
+atau disalurkan listrik, gas, minyak atau air;
+r.diputar film, dipertunjukkan sandiwara atau diselenggarakan
+rekreasi lainnya yang memakai peralatan, instalasi listrik atau
+mekanik.
+
+(3) Dengan peraturan perundangan dapat ditunjuk sebagai tempat kerja,
+ruangan -ruangan atau lapangan -lapangan lainnya yang dapat
+membahayakan keselamatan atau kesehatan yang bekerja dan atau
+yang berada di ruangan atau lapangan itu dan dapat diruba h
+perincian tersebut dalam ayat (2).
+BAB III.
+SYARAT -SYARAT KESELAMATAN KERJA.
+PASAL 3
+(1) Dengan peraturan perundangan ditetapkan syarat -syarat
+keselamatan kerja untuk :
+a.mencegah dan mengurangi kecelakaan;
+b.mencegah, mengurangi dan memadamkan kebakaran;
+c.mencegah dan mengurangi bahaya peledakan;
+d.memberi kesempatan atau jalan menyelamatkan diri pada waktu
+kebakaran atau kejadian -kejadian lain yang berbahaya;
+e.memberi pertolongan pada kecelakaan;
+f.memb eri alat -alat perlindungan diri pada para pekerja;
+g.mencegah dan mengendalikan timbul atau menyebarluasnya
+suhu, kelembaban, debu, kotoran, asap, uap, gas, hembusan
+angin, cuaca, sinar atau radiasi, suara dan getaran;
+h.mencegah dan mengendalikan timbul nya penyakit akibat kerja
+baik physik maupun psychis, peracunan, infeksi dan penularan;
+i.memperoleh penerangan yang cukup dan sesuai;
+j.menyelenggarakan suhu dan lembab udara yang baik;
+k.menyelenggarakan penyegaran udara yang cukup;
+l.memelihara ke bersihan, kesehatan dan ketertiban;
+m.memperoleh keserasian antara tenaga kerja, alat kerja,
+lingkungan, cara dan proses kerjanya;
+n.mengamankan dan memperlancar pengangkutan orang, binatang,
+tanaman atau barang;
+
+o.mengamankan dan mem elihara segala jenis bangunan;
+p.mengamankan dan memperlancar pekerjaan bongkar -muat,
+perlakuan dan penyimpanan barang;
+q.mencegah terkena aliran listrik yang berbahaya;
+r.menyesuaikan dan menyempurnakan pengamanan pada
+pekerjaan yang bahaya kecelakaannya menjadi bertambah tinggi.
+(2) Dengan peraturan perundangan dapat dirubah perincian seperti
+tersebut dalam ayat (1) sesuai dengan perkembangan ilmu
+pengetahuan, teknik dan t eknologi serta pendapatan -pendapatan
+baru di kemudian hari.
+PASAL 4
+(1) Dengan peraturan perundangan ditetapkan syarat -syarat
+keselamatan kerja dalam perencanaan, pembuatan, pengangkutan,
+peredaran, perdagangan, pemasangan, pemakaian, penggunaan,
+pemelih araan dan penyimpanan bahan, barang, produk teknik dan
+aparat produksi yang mengandung dan dapat menimbulkan bahaya
+kecelakaan.
+(2) Syarat -syarat tersebut memuat prinsip -prinsip teknik ilmiah
+menjadi suatu kumpulan ketentuan yang disusun secara teratur,jel as
+dan praktis yang mencakup bidang konstruksi, bahan, pengolahan
+dan pembuatan, perlengkapan alat -alat perlindungan, pengujian dan
+pengesyahan, pengepakan atau pembungkusan, pemberian tanda -
+tanda pengenal atas bahan, barang, produk teknis dan aparat
+produ ksi guna menjamin keselamatan barang -barang itu sendiri,
+keselamatan tenaga kerja yang melakukannya dan keselamatan
+umum.
+(3) Dengan peraturan perundangan dapat dirubah perincian seperti
+tersebut dalam ayat (1) dan (2) : dengan peraturan perundangan
+diteta pkan siapa yang berkewajiban memenuhi dan mentaati syarat -
+syarat keselamatan tersebut.
+
+BAB IV.
+PENGAWASAN
+PASAL 5
+(1) Direktur melakukan pelaksanaan umum terhadap Undang -undang
+ini, sedangkan para pegawai pengawas dan ahli keselamatan kerja
+ditugaskan menjalankan pengawasan langsung terhadap ditaatinya
+Undang -undang ini dan membantu pelaksanaannya.
+(2) Wewenang dan kewajiban direktur, pegawai pengawas dan ahli
+keselamatan kerja dalam melaksanakan Undang -undang ini diatur
+dengan peraturan perundangan.
+PASAL 6
+(1) Barangsiapa tidak dapat menerima keputusan direktur dapat
+mengajukan permohonan banding kep ada Panitia Banding.
+(2) Tata-cara permohonan banding, susunan Panitia Banding, tugas
+Panitia Banding dan lain -lainnya ditetapkan oleh Menteri Tenaga
+Kerja.
+(3) Keputusan Panitia Banding tidak dapat dibanding lagi.
+PASAL 7
+Untuk pengawasan berdasarkan Un dang -undang ini pengusaha harus
+membayar retribusi menurut ketentuan -ketentuan yang akan diatur
+dengan peraturan perundangan.
+PASAL 8
+(1) Pengurus diwajibkan memeriksakan kesehatan badan, kondisi
+mental dan kemampuan fisik dari tenaga kerja yang akan
+diterimanya maupun akan dipindahkan sesuai dengan sifat -sifat
+pekerjaan yang diberikan padanya.
+(2) Pengurus diwajibkan memeriksakan semua tenaga kerja yang
+berada di bawah pimpinannya, secara berkala pada dokter yang
+ditunjuk oleh pengusaha dan dibenarkan ole h direktur.
+
+(3) Norma -norma mengenai pengujian keselamatan ditetapkan dengan
+peraturan perundangan.
+BAB V.
+PEMBINAAN.
+PASAL 9
+(1) Pengurus diwajibkan menunjukkan dan menjelaskan pada tiap
+tenaga kerja baru tentang :
+a.Kondisi -kondisi dan bahaya -bahaya serta yang dapat timbul
+dalam tempat kerjanya;
+b.Semua pengamanan dan alat -alat perlindungan yang diharuskan
+dalam tempat kerjanya;
+c.Alat-alat perlindungan diri bagi tenaga kerja yang bersangkutan;
+d.Cara -cara dan sika p yang aman dalam melaksanakan
+pekerjaannya.
+(2) Pengurus hanya dapat mempekerjakan tenaga kerja yang
+bersangkutan setelah ia yakin bahwa tenaga kerja tersebut telah
+memahami syarat -syarat tersebut di atas.
+(3) Pengurus diwajibkan menyelenggarakan pembinaa n bagi semua
+tenaga kerja yang berada di bawah pimpinannya, dalam pencegahan
+kecelakaan dan pemberantasan kebakaran serta peningkatan
+keselamatan dan kesehatan kerja, pula dalam pemberian
+pertolongan pertama pada kecelakaan.
+(4) Pengurus diwajibkan memenuh i dan mentaati semua syarat -syarat
+dan ketentuan -ketentuan yang berlaku bagi usaha dan tempat kerja
+yang dijalankannya.
+
+BAB VI.
+PANITIA PEMBINA KESELAMATAN DAN
+KESEHATAN KERJA
+PASAL 10
+(1) Menteri Tenaga Kerja berwenang membentuk Panitia Pembina
+Keselamatan dan Kesehatan Kerja guna memperkembangkan kerja -
+sama, saling pengertian dan partisipasi efektif dari pengusaha atau
+pengurus dan tenaga kerja dalam tempat -tempat kerja untuk
+melaksanakan tugas dan kewajiban bersama di bidang keselamatan
+dan kesehatan kerja, dalam rangka melancarkan usaha berproduksi.
+(2) Susunan Panitia Pembina Keselamatan dan Kesehatan Kerja, tugas
+dan lain -lainnya ditetapkan oleh Menteri Tenaga Kerja.
+BAB VII.
+KECELAKAA N.
+PASAL 11
+(1) Pengurus diwajibkan melaporkan tiap kecelakaan yang terjadi
+dalam tempat kerja yang dipimpinnya, pada pejabat yang ditunjuk
+oleh Menteri Tenaga Kerja.
+(2) Tata-cara pelaporan dan pemeriksaan kecelakaan oleh pegawai
+termaksud dalam ayat (1 ) diatur dengan peraturan perundangan.
+BAB VIII.
+KEWAJIBAN DAN HAK TENAGA KERJA.
+PASAL 12
+Dengan peraturan perundangan diatur kewajiban dan atau hak tenaga
+kerja untuk :
+a. Memberikan keterangan yang benar bila diminta oleh pegawai
+pengawas dan atau ahl i keselamatan kerja;
+
+b. Memakai alat -alat perlindungan diri yang diwajibkan;
+c. Memenuhi dan mentaati semua syarat -syarat keselamatan dan
+kesehatan kerja yang diwajibkan;
+d. Meminta pada pengurus agar dilaksanakan semua syarat
+keselamatan dan kesehatan kerja yang diwajibkan;
+e. Menyatakan keberatan kerja pada pekerjaan di mana syarat
+keselamatan dan kesehatan kerja serta alat -alat perlindungan diri
+yang diwajibkan diragukan ol ehnya kecuali dalam hal -hal khusus
+ditentukan lain oleh pegawai pengawas dalam batas -batas yang
+masih dapat dipertanggung -jawabkan.
+BAB IX.
+KEWAJIBAN BILA MEMASUKI TEMPAT KERJA.
+PASAL 13
+Barangsiapa akan memasuki sesuatu tempat kerja, diwajibkan mentaat i
+semua petunjuk keselamatan kerja dan memakai alat -alat perlindungan
+diri yang diwajibkan.
+BAB X.
+KEWAJIBAN PENGURUS.
+PASAL 14
+Pengurus diwajibkan :
+a. Secara tertulis menempatkan d alam tempat kerja yang dipimpinnya,
+semua syarat keselamatan kerja yang diwajibkan, sehelai Undang -
+undang ini dan semua peraturan pelaksanaannya yang berlaku bagi
+tempat kerja yang bersangkutan, pada tempat -tempat yang mudah
+dilihat dan terbaca dan menurut petunjuk pegawai pengawas atau
+ahli keselamatan kerja;
+
+b. Memasang dalam tempat kerja yang dipimpinnya, semua gambar
+keselamatan kerja yang diwajibkan dan semua bahan pembinaan
+lainnya, pada tempat -tempat yang mudah dilihat dan terbaca
+menurut petunjuk pegawai pengawas atau ahli Keselamatan Kerja;
+c. Menyediakan secara cuma -cuma, semua alat perlindungan diri yang
+diwajibkan pada tenaga kerja yang berada di bawah pimpinannya
+dan menyediakan bagi setiap orang lain yang memasuki tempat
+kerja tersebut, disertai dengan petunjuk -petunjuk yang diperlukan
+menurut petunjuk pegawai pengawas atau ahli keselamatan kerja.
+BAB XI.
+KETENTUAN -KETENTUAN PENUTUP.
+PASAL 15
+(1) Pelaksanaan k etentuan tersebut pada pasal -pasal di atas diatur lebih
+lanjut dengan peraturan perundangan.
+(2) Peraturan perundangan tersebut pada ayat (1) dapat memberikan
+ancaman pidana atas pelanggaran peraturannya dengan hukuman
+kurungan selama -lamanya 3 (tiga) bula n atau denda setinggi -
+tingginya Rp. 100.000, -(seratus ribu rupiah).
+(3) Tindak pidana tersebut adalah pelanggaran.
+PASAL 16
+Pengusaha yang mempergunakan tempat -tempat kerja yang sudah ada
+pada waktu Undang -undang ini mulai berlaku wajib mengusahakan di
+didalam satu tahun sesudah Undang -undang ini mulai berlaku, untuk
+memenuhi ketentuan -ketentuan menurut atau berdasarkan Undang -
+undang ini.
+
+PASAL 17
+Selama peraturan perundangan untuk melaksanakan ketentuan dalam
+Undang -undang ini belum di keluarkan, maka peraturan dalam bidang
+keselamatan kerja yang ada pada waktu Undang -undang ini mulai
+berlaku, tetapi berlaku sepanjang tidak bertentangan dengan Undang -
+undang ini.
+PASAL 18
+Undang -undang ini disebut "UNDANG -UNDANG KESELAMATAN
+KERJA" dan mulai berlaku pada hari diundangkan.
+Agar supaya setiap orang dapat mengetahuinya, memerintahkan
+pengundangan Undang -undang ini dengan penempatan dalam Lembaran
+Negara Republik Indonesia.

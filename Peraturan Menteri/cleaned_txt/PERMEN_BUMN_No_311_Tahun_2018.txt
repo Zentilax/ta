@@ -1,0 +1,509 @@
+ 
+  
+BERITA  NEGARA  
+REPUBLIK INDONESIA  
+No.311, 2018 BUMN. Prinsip  Tata Kelola TI.  
+ 
+PERATURAN MENTERI BADAN USAHA MILIK NEGARA  
+REPUBLIK INDONESIA  
+NOMOR PER -02/MBU/02/ 2018 
+TENTANG  
+PRINSIP  TATA KELOLA TEKNOLOGI INFORMASI  
+KEMENTERIAN BADAN USAHA MILIK NEGARA  
+ 
+DENGAN RAHMAT TUHAN YANG MAHA ESA  
+ 
+MENTERI BADAN USAHA MILIK NEGARA REPUBLIK INDONESIA,  
+ 
+ 
+Menimbang  : a. bahwa Teknologi Informasi di Kementerian BUMN perlu 
+lebih dikelola dan dimanfaatkan secara efektif dan 
+efisien;  
+  b. bahwa agar pengelolaan dan pemanfaaatan Teknologi 
+Informasi dapat berjalan dengan baik, terkoordinasi, dan 
+mencapai Good Information Technology  Governance (GIG) , 
+perlu adanya ketentuan yang  mengatur  mengenai Tata 
+Kelola Teknologi I nformasi;  
+  c. bahwa berdasarkan pertimbangan sebagaimana 
+dimaksud dalam huruf a dan huruf b, perlu menetapkan 
+Peraturan Menteri  Badan Usaha Milik Negara  tentang 
+Prinsip  Tata Kelola Teknologi Informasi Kementerian 
+Badan Usaha Milik  Negara ; 
+ 
+Mengingat  : 1. Undang -Undang Nomor 36 Tahun 1999 tentang 
+Telekomunikasi (Lembaran Negara Republik Indonesia 
+Tahun 1999 Nomor 154, Tambahan Lembaran Negara 
+Republik Indonesia Nomor 3881);  
+www.peraturan.go.id2018, No.311 -2- 
+  2. Undang -Undang Nomor 11 Tahun 2008 tentang 
+Informasi d an Transaksi Elektronik (Lembaran Negara 
+Republik Indonesia Tahun 2008 Nomor 58, Tambahan 
+Lembaran Negara Republik Indonesia 4843);  
+  3. Peraturan Pemerintah Nomor 41 Tahun 2003 tentang 
+Pelimpahan Kedudukan, Tugas, dan Kewenangan 
+Menteri Keuangan pada Peru sahaan Perseroan 
+(PERSERO), Perusahaan Umum (PERUM), dan 
+Perusahaan Jawatan (PERJAN) kepada Menteri Negara 
+Badan Usaha Milik Negara (Lembaran Negara Republik 
+Indonesia Tahun 2003 Nomor 82, Tambahan Lembaran 
+Negara Republik Indonesia Nomor 4305);  
+  4. Peraturan Presiden Nomor 41 Tahun 2015 tentang 
+Kementerian Badan Usaha Milik Negar a (Lembaran 
+Negara Republik Indonesia Tahun 2015 Nomor 76) 
+sebagaimana telah diubah dengan Peraturan Presiden 
+Nomor 41 Tahun 2017 tentang Perubahan atas 
+Peraturan Presiden Nomor 41 Tahun 2015 tentang 
+Kementerian Badan Usaha Milik Negara Kementerian 
+Badan U saha Milik Negara (Lembaran Negara Republik 
+Indonesia Tahun 2017 Nomor 74);  
+  5. Peraturan Menteri Badan Usaha Milik Negara Nomor 
+PER-10/MBU/07/2015  tentang Organisasi dan Tata 
+Kerja Kementerian Badan Usaha Milik Negara (Berita 
+Negara Republik Indonesia Tahun 2015 Nomor 1379) ;  
+ 
+MEMUTUSKAN : 
+Menetapkan  : PERATURAN MENTERI BADAN USAHA MILIK NEGARA 
+TENTANG PRINSIP  TATA KELOLA TEKNOLOGI INFORMASI  
+KEMENTERIAN BADAN USAHA MILIK NEGARA . 
+ 
+Pasal 1  
+Prinsip  Tata Kelola Teknologi Informasi Kementerian Badan 
+Usaha Milik Negara  disusun  sebagai landasan  dalam 
+pengelolaan teknologi informasi Kemen terian Badan Usaha 
+Milik Negara.  
+ 
+www.peraturan.go.id2018, No.311 
+ -3- 
+Pasal 2  
+Prinsip  Tata Kelola Teknologi Informasi  sebag aimana 
+dimaksud dalam Pasal 1 terdiri atas:  
+a. prinsip manajemen;  
+b. prinsip organisasi;  
+c. prinsip data dan informasi;  
+d. prinsip aplikasi;  
+e. prinsip teknologi;  dan 
+f. prinsip keamanan teknologi informasi . 
+ 
+Pasal 3  
+Prinsip  Tata Kelola Teknologi Informasi sebagaimana 
+dimaksud dalam Pasal 2 tercantum dalam Lampiran yang 
+merupakan bagian tidak terpisahkan dari Peraturan Menteri 
+ini. 
+ 
+Pasal 4  
+(1) Prinsip Tata Kelola Teknologi Informasi sebagaimana 
+dimaksud dalam Pasal 2 sejajar dan sederajat, sehingga 
+dalam pengambilan keputusan perlu merujuk pada 
+prinsip tersebut . 
+(2) Dalam hal keputusan yang diambil mengutamakan salah 
+satu prinsip saja maka dasar pertimbangan yang diambil 
+harus demi kepentingan Kementerian Badan Us aha Milik 
+Negara, dan didokumentasikan.  
+ 
+Pasal 5  
+Peraturan Me nteri ini mulai berlaku pada tanggal 
+diundangkan.  
+www.peraturan.go.id2018, No.311 -4- 
+Agar setiap orang mengetahuinya, memerintahkan 
+pengundangan Peraturan Menteri ini dengan penempatannya 
+dalam Berita Negara Republik Indonesia.  
+ 
+ 
+Ditetapkan di Jakarta  
+pada tanggal 12 Februari  2018 
+ 
+MENTERI  BADAN USAHA  MILIK NEGARA  
+REPUBLIK INDONESIA,  
+ 
+ttd 
+ 
+RINI M. SOEMARNO  
+ 
+Diundangkan di Jakarta  
+pada tanggal 27 Februari 2018  
+ 
+DIREKTUR JENDERAL  
+PERATURAN PERUNDANG -UNDANGAN  
+KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA  
+REPUBLIK INDONESIA,  
+ 
+  ttd 
+ 
+WIDODO EKATJAHJANA  
+ 
+ 
+014 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+www.peraturan.go.id2018, No.311 
+ -5- 
+ 
+ 
+ 
+ 
+ 
+PRINSIP TATA KELOLA TEKNOLOGI IN FORMASI  
+KEMENTERIAN BADAN USAHA MILIK NEGARA  
+ 
+A. Latar Belakang  
+Untuk dapat mengelola sumber daya teknologi informasi (SDTI)  
+Kementerian Badan Usaha Milik Negara ( BUMN ) secara efektif dan efisien 
+diperlukan suatu tata kelola teknologi informasi ( TI). Kerangka tata kelola 
+TI terdiri dari komponen -komponen yang merupakan hierarki tata kelola 
+TI, yang saling berhubungan dan berfungsi sebagai p rinsip  untuk 
+mema ndu tata kelola TI.  Komponen -komponen tersebut terdiri dari 
+prinsip, kebijakan, standar, prosedur, serta alat bantu dan teknik.   
+Peraturan ini menjelaskan tentang komponen yang pertama pada hierarki 
+yaitu prinsip. Prinsip merupakan p anduan  dalam pema nfaatan dan 
+pengelolaan sumber daya dan aset TI Kementerian BUMN. Prinsip 
+digunakan untuk membuat lingkungan pengelolaan TI menjadi efektif dan 
+efisien.  
+Penerapan kerangka ini membutuhkan keterlibatan seluruh tingkatan 
+organisasi Kement erian BUMN dalam men definisikan dan memanfaatkan 
+komponen -komponen tersebut di atas agar pengelolaan  TI dapat berjalan 
+dengan baik.  
+ 
+B. Maksud dan Tujuan  
+1. Maksud  
+Prinsip tata kelola TI Kementerian BUMN dimaksudkan untuk 
+menyediakan satu acuan berkekuatan hukum y ang harus dipatuhi  
+oleh seluruh unsur Kementerian BUMN terkait dengan  tata kel ola TI 
+antar -unit kerja di Kementerian BUMN , sehingga Kementerian BUMN 
+dapat lebih efektif menjalankan peran dan tugasnya.  
+ 
+ 
+ LAMPIRAN  
+PERATURAN MENTERI BADAN USAHA MILIK NEGARA  
+NOMOR PER -02/MBU/ 02/201 8  
+TENTANG  
+PRINSIP TATA KELOLA TEKNOLOGI INFORMASI  
+KEMENTERIAN BADAN USAHA MILIK NEGARA  
+www.peraturan.go.id2018, No.311 -6- 
+2. Tujuan  
+a.  Untuk m encapai tata kelola TI ya ng baik atau Good I T Governance  
+(GIG) sebagai bagian dari penerapan Good Corporate Governance  
+(GCG). 
+b.  Memfasilitasi pengelolaan dan investasi keseluruhan untuk aset -
+aset penting TI yang mendukung kebutuhan beragam dan 
+perubahan kebutuhan Kementerian BUMN . 
+c.  Menyediakan filosofi dasar untuk Kementerian BUMN mengenai 
+bagaimana seharusnya TI diterapkan untuk mencapai tujuan dan 
+sasaran bisnis.  
+ 
+C. Ruang Lingkup  
+Ruang lingkup Prinsip  Tata Kelola TI Kementerian BUMN mencakup :  
+1. Prinsip Mana jemen;  
+2. Prinsip Organisasi;  
+3. Prinsip Data dan Informasi;  
+4. Prinsip Aplikasi;  
+5. Prinsip Teknologi; dan  
+6. Prinsip Keamanan TI.  
+ 
+D. Prinsip Manajemen  
+Prinsip Manajemen merupakan  panduan  umum bagaimana cara 
+mengelola TI.  Prinsip ini menyediakan  dasar untuk pengambilan 
+keputusan terkait tata kelola TI.  
+Prinsip Manajemen terdiri dari:  
+1. Kepatuhan terhadap prinsip -prinsip Tata Kelola TI  
+Prinsip -prinsip Tata Kelola TI harus  dipatuhi oleh seluruh unit kerja di 
+lingkun gan Kementerian BUMN. Apabila seluruh unit kerja di 
+lingkungan Keme nterian BUMN patuh , maka akan tersedia informasi 
+yang berkualitas secara konsisten dan terukur untuk para pengambil 
+keputusan.  
+2. Keselarasan dengan Rencana Strategis (Renstra) Kementerian BUMN  
+Master Plan  TI Kementerian BUMN harus selaras dengan Renstra  
+Kementerian BUMN. Perencanaan dan pelaksanaan TI mempunyai 
+acuan yang jelas dan selaras dengan Renstra  Kementerian B UMN.  
+3. Adopsi Transformasi Digital ( Digital Transformation )  
+Dalam mengadopsi digital transformation , strategi Kementerian BUMN 
+www.peraturan.go.id2018, No.311 
+ -7- 
+harus difokuskan pada setidaknya 3 (tiga) area utama , yaitu proses 
+yang terkait dengan pemahaman perubahan pola interaksi  oleh 
+pelanggan ( customer experience), digitalisasi proses internal  (operational 
+processes)  dan perubahan model bisnis mengadopsi digitalisasi 
+(business model) . Digital transformation  dapat meningkatkan kepuasan 
+pelanggan, efisiensi operasional,  mempercepat proses pengambilan 
+keputusan dan  tangkas  (agile ) dalam beradaptasi ter hadap perubahan.  
+4. Keberhasilan penerapan TI merupakan hasil kontribusi seluruh unit 
+kerja di Kementerian BUMN  
+Seluruh unit kerja Kementerian BUMN terkait harus  berkontribusi 
+dalam pr oses pengambilan keputusan strategis TI , serta berperan aktif 
+dalam pemanfaatan TI dalam mendukung tercapainya strategi bisnis 
+dan sesuai dengan skala prioritas bisnis.  Unit kerja pengguna 
+merupakan pemangku kepentingan ( stakeholder ) kunc i untuk 
+keberhasil an penerapan TI , sehingga untuk memastikan bahwa strategi 
+dan penerapan TI selaras dengan strategi dan prioritas bisnis, maka 
+seluruh unit kerja terkait di Kementerian BUMN harus terlibat dan 
+bertanggung jawab dalam keberhasilan penerap an TI.   
+5. Memaksimalka n manfaat dan mengoptimalkan nilai investasi TI  
+Pengambilan keputusan pengelolaan investasi TI harus dibuat untuk 
+memberikan manfaat yang maksimal dan nilai yang optimal kepada 
+seluruh unit kerja Kementerian BUMN.  Manfaat yang maksi mal atas 
+investasi y ang optimal membutuhkan keputusan pengelolaan TI yang 
+mengacu kepada strategi dan skala prioritas untuk Kementerian BUMN 
+secara keseluruhan. Keputusan yang dibuat dari perspektif 
+Kementerian BUMN secara keseluruhan mempunyai nilai jangk a 
+panjang yang lebih  tinggi jika dibandingkan dengan keputusan yang 
+diambil dari perspektif elemen organisasi secara terpisah.   
+6. Penerapan biaya total kepemilikan atau Total Cost of Ownership  (TCO). 
+Pemilihan perangkat TI selain berdasarkan pada keleng kapan 
+fungsionalitas , kualitas, dan kemudahan penggunaannya, juga harus 
+berdasarkan waktu dan biaya total yang lebih ekonomis. TCO harus 
+menjadi aspek utama di dalam pemilihan perangkat TI karena TCO 
+memperhatikan aspek jangka panjang, dimana pemilihan perangkat TI 
+bukan han ya memperhitungkan biaya awal, tetapi juga 
+memperhitungkan biaya -biaya lain termasuk  biaya pemeliharaan dan 
+www.peraturan.go.id2018, No.311 -8- 
+biaya perluasan implementasi (termasuk penambahan lisensi dan jasa 
+implementasi). Hal ini dimaksudkan untuk menghindari risiko biaya 
+murah di a wal, tetapi menjadi mahal pada saat pemeliharaan dan 
+perluasan implementasi.  
+7. Menjaga keberlangsungan kegiatan operasional Kementerian BUMN  
+Seluruh unit kerja di Kementerian BUMN bertanggung jawab untuk 
+menjaga keberlangsungan kegiata n Kementerian BUMN a gar tetap 
+berjalan , walaupun terjadi gangguan atau benc ana yang 
+mempengaruhi TI.  Penerapan TI untuk mendukung seluruh kegiatan 
+Kementerian BUMN akan menyebabkan ketergantungan kepada 
+ketersediaan layanan TI. Untuk dapat menjaga keberlang sungan 
+kegiatan  Kementerian BUMN, maka Kementerian BUMN harus 
+mempertimbangkan kehandalan sistem TI tersebut. Fasilitas alternatif 
+Disaster Recovery Center (DRC)  harus disediakan dengan kapabilitas 
+dan kapasitas yang memadai untuk dapat melanjutkan fungsi bisnis 
+yang pent ing apabila terjadi bencana. Kementerian BUMN harus 
+mempunyai kemampuan beroperasi menggunakan prosedur alternatif 
+apabila DRC juga mengalami kendala setelah terjadi bencana.  
+8. Berbagi kapasitas TI ( Shared -Capacity ) 
+Kementerian BUMN harus berbagi kapasitas dengan BUMN, baik dalam 
+kegiatan operasional TI  maupun pada saat terjadi gangguan atau 
+bencana yang mempengaruhi TI.  Dengan berbagi kapasitas TI, 
+Kementerian BUMN dapat meningkatkan efisiensi dan efektivitas biaya.  
+9. Orientasi kepada layanan  
+TI berorientasi kepada layanan. Unit kerja TI Kementerian BUMN dapat 
+memberikan layanan TI yang terbaik berdasarkan kebutuhan unit kerja 
+pengguna melalui kesepakatan yang dituangkan dalam kontrak 
+layanan.  
+10. Hakikat tanggung jawab  organisasi TI  
+Unit kerja TI bertanggung jawab untuk mempunyai rasa memiliki 
+(sense of belonging ) dalam mengelola SDTI  dan memberikan layanan TI 
+yang dapat memenuhi kebutuhan unit kerja pengguna TI.  Dengan rasa 
+kepemilikan yang kuat dalam mengelola SDTI dan memberikan layanan 
+TI, maka seluruh kegiatan TI dapat dilaksanakan secara efektif dan 
+efisien.  
+11. Penggunaan tools/aplikasi yang seragam  
+Pembangunan dan pemilihan aplikasi yang seragam bagi seluruh unit 
+www.peraturan.go.id2018, No.311 
+ -9- 
+kerja Kementerian BUMN harus diutamakan unt uk tool/aplikasi yang 
+mempunyai fungsionalitas yang sama.  Penggunaan tool/aplikasi yang 
+seragam untuk fungsi yang sama , guna  menghindarkan potensi 
+dibutuhkannya sumber daya yang lebih tinggi (pembangunan, 
+implementasi, maupun pemeliharaan) dan memudahkan i ntegrasi data.   
+12. Perlindungan terhadap kekayaan intelektual  
+Perlindungan terhadap kekayaan intelektual Kementerian BUMN harus 
+direfleksikan dalam prinsip dan kebijakan TI, dan dipatuhi pada saat 
+proses pengelolaan TI.  Semua proses dan  hasil pengelolaan T I yang 
+menggunakan sumber daya Kementerian BUMN, maka hak atas 
+kekayaan intelektualnya menjadi milik Kementerian BUMN  dengan 
+memperhatikan  ketentuan peraturan perundang -undangan.  
+13. Tata Kelola TI yang baik 
+Unit kerja TI Kem enterian BUMN harus menerapkan GIG. Tata kelola 
+TI yang baik bermanfaat untuk meningkatkan kualitas layanan TI, 
+meminimalkan risiko, dan menghemat biaya.  
+14. Pengelolaan sistem TI yang responsif  
+Pengelolaan perubahan atau inisi atif baru atas sistem TI harus 
+berdasarkan tuntutan kebutuhan yang berkembang dan harus 
+dipenuhi dalam tenggat waktu berdasarkan kesepakatan antara unit 
+kerja pengguna dengan unit kerja TI.  Dengan terpenuhinya waktu yang 
+disepakati dala m pengelolaan peruba han atau inisiatif baru atas sistem 
+TI, maka tidak akan terjadi keterlambatan implementasi perubahan 
+sistem TI.  
+15. Perubahan berbasis kebutuhan Kementerian BUMN  
+Perubahan aplikasi dan teknologi diharuskan untuk merespons 
+perubahan berbas is kebutuhan Kemente rian BUMN.  Perubahan 
+terhadap TI diharuskan merupakan respon terhadap perubahan 
+kebutuhan Kementerian BUMN, dan bukan sebaliknya dimana terjadi 
+dorongan untuk melakukan perubahan semata sebagai respons 
+terhadap terjadinya perubahan tren  TI. Hal ini dilakuk an untuk 
+menjamin bahwa tujuan dari penerapan tren TI adalah untuk 
+mendukung kegiatan Kementerian BUMN.  Namun, aspek perubahan 
+yang dibawa oleh teknologi demi kebaikan/peningkatan proses bisnis 
+tentunya harus diterima, dan akan ditempat kan sebagai pemicu 
+kebutuhan perubahan.  
+www.peraturan.go.id2018, No.311 -10- 
+E. Prinsip Organisasi  
+Prinsip Organisasi merupakan  panduan  bagaimana cara 
+mengorganisasikan TI.  
+Prinsip Organisasi terdiri dari:  
+1. Pemisahan Tugas atau Segregation of Duties  (SoD) . 
+Kerangka organisasi T I di Kementerian BUM N harus disusun dengan 
+mempertimbangkan prinsip SoD antara peran strategis, peran 
+proyek/investasi, peran operasional, peran pendukung, dan peran 
+manajemen risiko, yang direpresentasikan ke dalam bentuk struktural 
+maupun berdasarkan tim ( ad-hoc). Pemisahan tugas dibutuhkan untuk 
+menjaga efektifitas fungsi dan kontrol TI.  
+2. Kerangka struktur organisasi TI . 
+Struktur organisasi TI Kementerian BUMN setidaknya dipimpin oleh 
+satu tingkat di bawah Deputi yang menjalankan peran sebagai Chief 
+Informa tion Officer (CIO) , memiliki tugas dan fungsi dalam bidang TI, 
+dan didukung oleh suatu Komite Pengarah TI (IT Steering Committee)  
+yang dibentuk oleh Menteri BUMN . Peran, tanggung jawab, dan 
+wewenang organisasi TI harus jelas dan dip impin oleh satu orang 
+dengan d ukungan fungsi pengarah yang jelas.  
+3. Sumber Daya Manusia  (SDM)  TI yang kompeten   
+Tersedianya SDM TI berdasarkan standar acuan kompetensi yang 
+sesuai dengan tugas, fungsi, dan tingkat ketrampilan yang dibutu hkan.  
+Struktur organisasi T I diisi dengan SDM yang tepat melalui mekanisme 
+pengembangan kompetensi yang terarah.  
+ 
+F. Prinsip Data dan Informasi  
+Prinsip Data dan Informasi merupakan  panduan  bagaimana mengelola  
+dan menjaga data da n informasi.  
+Prinsip Data dan Informasi terdiri dari:  
+1. Menteri BUMN merupakan pengguna utama Data dan Informasi  
+Pengguna utama Data dan Informasi di Kementerian BUMN adalah 
+Menteri BUMN . Sedangkan pengguna lainnya ditentukan berda sarkan 
+tingkat otori tas dalam melaksanakan tugas dan fungsinya. Data dan 
+informasi merupakan aset strategis yang bermanfaat untuk 
+mendukung pengambilan keputusan yang tepat di lingkungan 
+Kementerian BUMN.  
+ 
+www.peraturan.go.id2018, No.311 
+ -11- 
+2. Unit yang menghasilkan Data sebagai pemilik data 
+Untuk melaksanak an tugas pengelolaan data di Kementerian BUMN, 
+Menteri BUMN menunjuk Chief Data Officer (CDO)  sebagai penanggung 
+jawab Tata Kelola Data (Data Governance).  Unit kerja Kementerian 
+BUMN sebagai Pemilik Data (Data Owner)  bertanggungjawab terhadap 
+kualitas dan penentu klasifikasi kerahasiaan data.  Setiap data dan 
+informasi harus mempunyai penanggung jawab terhadap pengawalan 
+kualitas dan kerahasiaannya agar hanya ada satu sumber  data dan 
+informasi yang benar.  
+3. Data dan Informasi merupakan  Aset 
+Data dan inf ormasi merupakan aset bagi Kementerian BUMN . Oleh 
+karena itu , harus dikelola dengan baik untuk memperoleh data dan 
+informasi yang lengkap, handal, mutakhir, aman, dan akurat.  Data 
+dan informasi yang akurat dan mutakhir adalah penting untuk 
+pengambilan ke putusan yang akurat dan te pat waktu.  
+4. Data dan Informasi untuk digunakan bersama   
+Pemilik data harus berbagi Data dan Informasi untuk dapat digunakan 
+bersama dan diakses oleh pengguna sesuai dengan tingkat otoritasnya 
+dalam melaksa nakan tugasnya.  Pengunaan bersama Data dan 
+Informasi mendorong standardisasi, efisiensi, dan efektifitas 
+pengelolaan data dan informasi.  
+5. Kemudahan akses Data dan Informasi  
+Data dan informasi harus mudah diakses oleh pengguna sesuai dengan 
+klasifikasi d ata berdasarkan kete ntuan peraturan perundang -
+undangan.  Kemudahan akses data dan informasi akan meningkatkan 
+kualitas dan efisiensi proses bisnis maupun pengambilan keputusan.  
+6. Kamus Data yang lengkap  
+Kamus data didefinisikan secara lengkap dan konsisten untuk seluruh 
+unit k erja Kementerian BUMN, dan definisinya harus dapat dimengerti 
+dan tersedia bagi seluruh pengguna.  Kamus data yang lengkap dan 
+seragam akan meningkatkan koordinasi pelaporan, karena 
+memberikan pemahaman yang sama terhadap data dan inform asi. 
+7. Data dan Inform asi yang terlindungi dan aman 
+Data dan informasi harus diklasifikasikan tingkat kerahasiaannya dan 
+harus dijaga dari penggunaan yang tidak sah.  Untuk menjaga supaya 
+Data dan Informasi yang bersifat rahasia atau sensitif tidak diberi kan 
+www.peraturan.go.id2018, No.311 -12- 
+kepada pihak yan g tidak berwenang.  Keterbukaan Data dan Informasi 
+harus diseimbangkan dengan pembatasan akses Data dan Informasi 
+berdasarkan klasifikasi yang telah ditentukan.  Klasifikasi Data dan 
+Informasi , bermanfaat untuk menjaga kerahasiaan, keutuhan, dan 
+keters ediaan Data dan Informasi dikarenakan pengendalian yang tepat 
+terhadap semua Data dan Informasi.  
+ 
+G. Prinsip Aplikasi  
+Prinsip Aplikasi merupakan  panduan  pemanfaatan dan implementasi 
+aplikasi TI.  
+Prinsip Aplikasi terdiri dari:  
+1. TI sebagai enabler proses bisnis ( IT-Enabled Processes ) 
+TI memampukan terlaksananya kegiatan unit kerja Kementerian BUMN 
+yang diselaraskan dengan strategi serta mempertimbangkan antara 
+lain aspek -aspek terkait fungsionalitas, kinerja, kendali, dan biaya.  
+Prinsip ini me nunjukkan bahwa aplikasi TI berfungsi sebagai enabler 
+proses bisnis kegiatan unit kerja Kementerian BUMN. Oleh karena itu, 
+implementasi aplikasi TI harus memenuhi seluruh karakteristik 
+kebutuhan proses bisnis yang ditentukan oleh pengguna . 
+2. Tidak Bergantung  pada teknologi tertentu  
+Pemilihan aplikasi TI yang diimplementasikan harus diutamakan dari 
+aplikasi yang dapat dioperasikan di berbagai platfom  teknologi. Aplikasi 
+TI yang independen terhadap teknologi tertentu merupakan aplikasi 
+yang dapat dibangun, d iimplementasikan,  dan/atau diperbarui dengan 
+platform  teknologi yang berbeda dan dioperasikan dengan cara yang 
+paling efektif dari segi biaya dan juga tepat waktu.   
+3. Kemudahan penggunaan aplikasi   
+Aplikasi TI harus mudah digunakan. Kem udahan pengoperasian  
+aplikasi harus diutamakan dibandingkan dengan kemudahan pada 
+saat pengembangan/implementasi.  Kemudahan dalam penggunaan 
+aplikasi TI akan meningkatkan produktifitas pengguna, membantu 
+mendukung pekerjaan sehari -hari pengguna dan juga me minimalkan 
+risiko ap likasi tersebut tidak digunakan oleh pengguna.  
+ 
+H. Prinsip Teknologi  
+Prinsip Teknologi merupakan  panduan  pemanfaatan dan implementasi 
+teknologi.  
+www.peraturan.go.id2018, No.311 
+ -13- 
+Prinsip Teknologi terdiri dari:  
+1. Optimalisasi pengendalian keragaman teknolo gi 
+Pengendalian kera gaman teknologi harus dilakukan untuk 
+mengoptimalkan biaya -biaya operasional, pemeliharaan, maupun 
+integrasi teknologi.  Membatasi keragaman dan jumlah komponen 
+teknologi yang digunakan akan mempermudah implementasi, 
+operasionalisasi, pe meliharaan, termasuk  pengurangan biaya. 
+Teknologi yang seragam bagi Kementerian BUMN membawa manfaat 
+dalam aspek skala ekonomi. Biaya administrasi dan dukungan lainnya 
+akan lebih terkendali ketika sumber daya dapat difokuskan pada 
+teknologi yang seragam.  
+2. Interoperabilitas yang baik 
+Perangkat lunak dan perangkat keras TI harus sesuai dengan standar 
+interoperabilitas yang ditetapkan untuk data, aplikasi, dan teknologi, 
+baik antar unit kerja di Kementerian BUMN maupun dengan BUMN.  
+Standardisasi interoperabilitas dari produk -produk b eberapa penyedia 
+barang/jasa dilakukan untuk menjamin dan memfasilitasi integrasi , 
+sehingga dapat memaksimalkan manfaat atas investasi dan 
+mengurangi biaya operasionalnya.   
+3. Arsitektur Teknologi yang Lengkap   
+Arsitektur teknologi h arus terdiri atas be berapa lapisan ( layer ) yaitu  
+teknologi tampilan interaksi antarmuka ( presentation layer) , data layer , 
+application layer , dan infrastruktur pendukung ( base layer ). Arsitektur 
+teknologi yang lengkap dapat digunakan sebagai acuan untuk 
+mengelola pengembangan infrastruktur TI Kementerian BUMN ke 
+depan, sehi ngga dapa t terjaga keutuhannya.  
+ 
+I. Prinsip Keamanan TI  
+Prinsip Keamanan TI merupakan  panduan  bagaimana cara menjaga TI 
+dari kegiatan yang tidak sah.  
+Prinsip Keamanan Teknologi  Informasi terdiri d ari: 
+1. Keamanan TI merupakan tanggung jawab semua pihak 
+Keamanan TI harus menjadi tanggung jawab semua pihak baik di 
+dalam elemen organisasi maupun pihak terkait di luar organisasi.  
+Semua pihak tersebut terlibat baik secara langsung  maupun tidak 
+langsu ng dalam proses penyediaan, penyimpanan, pemanfaatan, dan 
+www.peraturan.go.id2018, No.311 -14- 
+penyebarluasan informasi yang tersimpan di dalam sistem TI.  
+2. Adopsi Keamanan TI dengan pendekatan berbasis risiko 
+Pengelolaan ancaman terhadap Keamanan TI harus mengadopsi 
+pendekatan berbasis ris iko untuk dapat mengelola dan 
+memprioritaskan penanganan risiko -risiko terkait.  Pengelolaan 
+ancaman terhadap keamanan TI diperlukan untuk memastikan bahwa 
+risiko keamanan TI dapat dikenali, dianalisa, dimitigasi, dan ditangani 
+dengan ca ra yang efektif dan konsisten.   
+ 
+ 
+MENTERI BADAN USAHA  MILIK NEGARA  
+REPUBLIK INDONESIA,  
+ 
+ttd. 
+ 
+RINI M. SOEMARNO  
+  
+www.peraturan.go.id

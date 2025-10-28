@@ -1,0 +1,111 @@
+============================================
+7 July 2025
+============================================
+Dataset :
+  1. Peraturan Menteri BUMN : 35 Files (termasuk 4 perubahan)
+  2. Peraturan Pemerintah : 11 Files
+  3. PERPPU : 1 (Cipta Kerja)
+  4. Undang Undang : 14 FIle
+
+TOTAL : 71 Files
+
+
+
+============================================
+8 July 2025
+=============================================
+1. Pembuatan codingan untuk
+	- Ekstraksi PDF -> Teks
+	- Major Cleaning Teks .
+	- Combine
+============================================
+22 Agustus 2025
+============================================
+1. pembuatan kolom id dengan ketentuan  
+	1. Digit pertama Kode jenis dokumen
+		a. 1 = UU
+		b. 2 = Peraturan Menteri
+		c. 3 = PP
+		d. 4 = PERPPU
+2. Nomor peraturan 4 digit
+3. Nomor Bab 2 digit
+4. Nomor Pasal 3 digit
+============================================
+Id input Done : 3 Oktober 2025
+============================================
+To DO:
+make relationships, store in md folder
+
+
+Relations:
+CONTAINS done
+PREV done
+
+
+DIRUBAH (PERMEN->PERMEN) Tanya ke Pak Kemas
+
+
+TURUNUNAN (Doc PP -> UU) Apakah perlu?
+
+
+
+Nodes:
+Pasal (pasal name, id, content) done
+Bab (bab name, id) done
+Doc (doc name, id) done
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+for evaluation, there is 
+Knowledge Graph Correctness : How many pasals were correctly imported
+Knowledge graph Coverage: from the original pdf, is the pasal count the same as in the KG
+📊 Example Evaluation Scheme
+
+Coverage = Pasals in KG ÷ Pasals in PDF × 100%
+
+Correctness = (
+
+% of pasals correctly numbered +
+
+% correctly placed under Bab/UU +
+
+% verified via random sample spot-check
+) ÷ 3
+
+
+
+
+
+
+
+
+PREFIX gc: 
+<http://example.org/german-cuisine#>; 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>; 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>; 
+PREFIX owl: <http://www.w3.org/2002/07/owl#>;  
+SELECT DISTINCT ?Region ?RegionDescription WHERE {   ?Dish gc:hasRegion ?Region .   ?Region rdf:type gc:German .   ?Region gc:hasDescription ?RegionDescription . } LIMIT 10
+
+
+
+
+
+aplikasi menghafal alquran 3 bulan (Hybrid) -> tebet
+
+kompensasi
+mengikuti user interview
+2 minggu maksimal
+
+
+
