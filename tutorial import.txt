@@ -48,7 +48,7 @@ STEP 2 : LOAD &  CONSTRUCT DB
 		MATCH (b:BAB {BAB_id: row.End_id})
 		MERGE (d)-[:HAS_BAB]->(b);
 
-		== IMPORT DOC_BAB RELATIONSHIP ==
+		== IMPORT DOC_PASAL RELATIONSHIP ==
 		LOAD CSV WITH HEADERS FROM 'file:///doc_pasal.csv' AS row
 		MATCH (d:DOC {judul_id: row.Start_id})
 		MATCH (p:PASAL {Pasal_id: row.End_id})
@@ -60,6 +60,11 @@ STEP 2 : LOAD &  CONSTRUCT DB
 		MATCH (b:PASAL {Pasal_id: row.End_id})
 		MERGE (a)-[:PREV]->(b);
 
+		== IMPORT DIRUAB (DOC-DOC) RELATIONSHIP ==
+		LOAD CSV WITH HEADERS FROM 'file:///dirubah.csv' AS row
+		MATCH (d:DOC {judul_id : row.Start_id})
+		MATCH (e:DOC {judul_id : row.End_id})
+		MERGE (a)-[:DIRUBAH_SEBAGIAN_OLEH]->(b);
 		
 		
 		
@@ -125,3 +130,40 @@ STEP 2 : LOAD &  CONSTRUCT DB
   			type(rel_prev) AS Prev_Relationship,
   			type(rel_bab_pasal) AS BAB_Pasal_Relationship,
   			type(rel_doc_bab) AS Doc_Bab_Relationship;
+
+
+		==FOR CODE UPDATE==
+MATCH (currentPasal:PASAL {Pasal_id: '211471700001'})
+
+// CASE 1: PASAL inside a BAB
+OPTIONAL MATCH (parentBab:BAB)-[rel_bab_pasal:HAS_PASAL]->(currentPasal)
+OPTIONAL MATCH (parentDoc1:DOC)-[rel_doc_bab:HAS_BAB]->(parentBab)
+
+// CASE 2: PASAL directly inside a DOC
+OPTIONAL MATCH (parentDoc2:DOC)-[rel_doc_pasal:HAS_PASAL]->(currentPasal)
+
+// Combine the two possible parent docs
+WITH 
+  currentPasal,
+  parentBab,
+  COALESCE(parentDoc1, parentDoc2) AS parentDoc,
+  rel_bab_pasal,
+  rel_doc_bab,
+  rel_doc_pasal
+
+// PREVIOUS PASAL
+OPTIONAL MATCH (currentPasal)-[rel_prev:PREV]->(previousPasal:PASAL)
+
+// DOC modifications
+OPTIONAL MATCH (parentDoc)-[rel_dirubah:DIRUBAH_SEBAGIAN_OLEH]->(nextDoc:DOC)
+
+RETURN 
+  currentPasal.Pasal AS Current_Pasal_Name,
+  currentPasal.Content AS Current_Pasal_Content,
+  previousPasal.Pasal AS Previous_Pasal_Name,
+  previousPasal.Content AS Previous_Pasal_Content,
+  parentBab.BAB AS Parent_BAB_Name,
+  parentDoc.judul AS Parent_Doc_Title,
+  nextDoc.judul AS Sebagian_Dirubah_Oleh;
+  
+
