@@ -1,3 +1,4 @@
 evaluasi chatbot.xlsx
 .gitignore
 app/.env
+app\.streamlit\secrets.toml
