@@ -55,7 +55,7 @@ class IndonesianLegalChatbot:
         print("\n[4/5] Connecting to Neo4j...")
         self.neo4j_uri = "bolt://localhost:7687"
         self.neo4j_user = "neo4j"
-        self.neo4j_password = "Ghazali12."
+        self.neo4j_password = ""
         
         try:
             self.driver = GraphDatabase.driver(
